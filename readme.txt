@@ -1,0 +1,1 @@
+Dit wordt een test om te weten hoe je met Git om moet gaan.
